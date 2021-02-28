@@ -39,8 +39,8 @@
     background-color:var(--azul-escuro);
     margin: 50px auto 0 auto;
     border-radius: 50%;
-    box-shadow: 2px 2px 0.5px 0.5px rgba(0, 0, 0, 0.1);
-    box-shadow: -2px -2px 0.5px 0.5px rgba(0, 0, 0, 0.1);
+    box-shadow: 2px 2px 0.5px 0.5px rgba(0, 0, 0, 0.2),
+                -2px -2px 0.5px 0.5px rgba(0, 0, 0, 0.2);
 }
 
 .autor{
